@@ -15,7 +15,5 @@ How To Run Tests
     python3 -m pytest -v --driver Chrome --driver-path ~/chrome tests/*
     ```
 
-   ![alt text](example.png)
-
-Note:
+!!!Note:
 ~/chrome in this example is the file of Selenium WebDriver downloaded and unarchived on step #2.
